@@ -1,0 +1,27 @@
+body {background-color: black;
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: center;
+	height: 100%;
+	}
+html{height: 100%;}
+h1, p, ul {color: white;}
+fieldset {
+		display: block;
+		width: 800px;
+		margin:auto;
+	}
+label 
+	{
+		color: white;
+		float: left;
+		clear: left;
+		margin-left: 10px;
+		text-align: left; 
+	}
+input
+	{
+		margin:auto;
+		float: right;
+		width: 300px;
+	}
